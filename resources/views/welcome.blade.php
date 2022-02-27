@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel-zhaozhanheng</title>
+        <title>Laravel</title>
         <style>
             html, body {
                 height: 100%;
@@ -37,6 +37,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Hello Laravel! - by zhaozhanheng</div>
+                <div>2022年02月27日</div>
             </div>
         </div>
     </body>
